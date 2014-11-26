@@ -56,7 +56,7 @@ return array(
 			'driver'    => 'mysql',
 			'host'      => '192.168.100.232',
 			'database'  => 'timesheet',
-			'username'  => 'admin',
+			'username'  => 'root',
 			'password'  => '1234567',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_520_ci',
