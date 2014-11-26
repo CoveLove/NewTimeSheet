@@ -7,13 +7,13 @@
 	<meta name="keywords" content="" />
 	<meta name="robots" content="" />
 	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
-	<link rel="stylesheet" href="css/style.css" media="all" />
+	<link rel="stylesheet" href="../../../public/css/style.css" media="all" />
 	<!--[if IE]><link rel="stylesheet" href="css/ie.css" media="all" /><![endif]-->
 </head>
 <body class="login">
 	<section>
 		<h1><strong>Retina</strong> Dashboard</h1>
-		<form method="link" action="dashboard.html">
+		<form method="link" action="dashboard.php">
 			<input type="text" value="Email" />
 			<input value="Password" type="password" />
 			<button class="blue">Login</button>

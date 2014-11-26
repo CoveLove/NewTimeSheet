@@ -7,7 +7,7 @@
 	<meta name="keywords" content="" />
 	<meta name="robots" content="" />
 	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0">
-	<link rel="stylesheet" href="css/style.css" media="all" />
+	<link rel="stylesheet" href="../../../public/css/style.css" media="all" />
 	<!--[if IE]><link rel="stylesheet" href="css/ie.css" media="all" /><![endif]-->
 </head>
 <body>
@@ -86,48 +86,48 @@
 		</span> 
 		<span class="button">Live</span>
 		 <span class="button">Help</span>
-		 <span class="button blue"><a href="index.html">Logout</a></span>
+		 <span class="button blue"><a href="index.php">Logout</a></span>
 	</div>
 </section>
 </div>
 <nav>
 	<ul>
-		<li><a href="dashboard.html"><span class="icon">&#128711;</span> Dashboard</a></li>
+		<li><a href="dashboard.php"><span class="icon">&#128711;</span> Dashboard</a></li>
 		<li class="section">
-			<a href="pages-table.html"><span class="icon">&#128196;</span> Pages</a>
+			<a href="pages-table.php"><span class="icon">&#128196;</span> Pages</a>
 			<ul class="submenu">
-				<li><a href="page-new.html">Create page</a></li>
-				<li><a href="page-timeline.html">View pages</a></li>
+				<li><a href="page-new.php">Create page</a></li>
+				<li><a href="page-timeline.php">View pages</a></li>
 			</ul>	
 		</li>
 		<li>
-			<a href="files.html"><span class="icon">&#127748;</span> Media <span class="pip">7</span></a>
+			<a href="files.php"><span class="icon">&#127748;</span> Media <span class="pip">7</span></a>
 			<ul class="submenu">
-				<li><a href="files-upload.html">Upload file</a></li>
-				<li><a href="files.html">View files</a></li>
+				<li><a href="files-upload.php">Upload file</a></li>
+				<li><a href="files.php">View files</a></li>
 			</ul>
 		</li>
 		<li>
-			<a href="blog-timeline.html"><span class="icon">&#59160;</span> Blog <span class="pip">12</span></a>
+			<a href="blog-timeline.php"><span class="icon">&#59160;</span> Blog <span class="pip">12</span></a>
 			<ul class="submenu">
-				<li><a href="blog-new.html">New post</a></li>
-				<li><a href="blog-table.html">All posts</a></li>
-				<li><a href="comments-timeline.html">View comments</a></li>
+				<li><a href="blog-new.php">New post</a></li>
+				<li><a href="blog-table.php">All posts</a></li>
+				<li><a href="comments-timeline.php">View comments</a></li>
 			</ul>
 		</li>
-		<li><a href="statistics.html"><span class="icon">&#128202;</span> Statistics</a></li>
-		<li><a href="users.html"><span class="icon">&#128101;</span> Users <span class="pip">3</span></a></li>
+		<li><a href="statistics.php"><span class="icon">&#128202;</span> Statistics</a></li>
+		<li><a href="users.php"><span class="icon">&#128101;</span> Users <span class="pip">3</span></a></li>
 		<li>
-			<a href="ui-elements.html"><span class="icon">&#9881;</span> UI Elements</a>
+			<a href="ui-elements.php"><span class="icon">&#9881;</span> UI Elements</a>
 			<ul class="submenu">
-				<li><a href="icon-fonts.html">Icon fonts</a></li>
+				<li><a href="icon-fonts.php">Icon fonts</a></li>
 			</ul>
 		</li>
 	</ul>
 </nav>
 
 <section class="alert">
-	<form method="link" action="page-new.html">
+	<form method="link" action="page-new.php">
 		 <button class="green">Create new page</button>
 	</form>
 </section>
@@ -231,15 +231,15 @@
 	</section>
 </section>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
-<script src="js/jquery.wysiwyg.js"></script>
-<script src="js/custom.js"></script>
-<script src="js/cycle.js"></script>
-<script src="js/jquery.checkbox.min.js"></script>
-<script src="js/flot.js"></script>
-<script src="js/flot.resize.js"></script>
-<script src="js/flot-graphs.js"></script>
-<script src="js/flot-time.js"></script>
-<script src="js/cycle.js"></script>
-<script src="js/jquery.tablesorter.min.js"></script>
+<script src="../../../public/js/jquery.wysiwyg.js"></script>
+<script src="../../../public/js/custom.js"></script>
+<script src="../../../public/js/cycle.js"></script>
+<script src="../../../public/js/jquery.checkbox.min.js"></script>
+<script src="../../../public/js/flot.js"></script>
+<script src="../../../public/js/flot.resize.js"></script>
+<script src="../../../public/js/flot-graphs.js"></script>
+<script src="../../../public/js/flot-time.js"></script>
+<script src="../../../public/js/cycle.js"></script>
+<script src="../../../public/js/jquery.tablesorter.min.js"></script>
 </body>
 </html>

@@ -13,7 +13,9 @@ return array(
 	|
 	*/
 
-	'app' => __DIR__.'/../app',
+	'app' => __DIR__.'/../app/views/original',
+
+	'appviews' => __DIR__.'/../app/views/original',
 
 	/*
 	|--------------------------------------------------------------------------
