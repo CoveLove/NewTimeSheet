@@ -54,10 +54,10 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => 'localhost',
+			'host'      => '192.168.100.232',
 			'database'  => 'timesheet',
 			'username'  => 'admin',
-			'password'  => '12345678',
+			'password'  => '1234567',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_520_ci',
 			'prefix'    => '',
